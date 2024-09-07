@@ -1,0 +1,1 @@
+Greetings, everyone. I am maker114, a college student with a keen interest in embedded systems. My primary programming languages are C and Python. The microcontrollers I frequently work with include the STM32 series, ESP32 series, and OPENMV, while my development environments consist of Keil 5 and Visual Studio Code integrated with PlatformIO.
